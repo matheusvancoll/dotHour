@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg-clt: #3D348B;
+  --bg-estagio: #F35B04;
+}

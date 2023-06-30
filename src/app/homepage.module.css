@@ -1,0 +1,23 @@
+.homepagePrimaryContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: .5s;
+}
+
+.estagiobg{
+    /* background: rgb(36,130,50);
+    background: linear-gradient(180deg, rgba(36,130,50,1) 0%, rgba(0,0,0,1) 100%); */
+}
+
+.cltbg{
+    /* background: rgb(61,52,139);
+    background: linear-gradient(180deg, rgba(61,52,139,1) 0%, rgba(0,0,0,1) 100%); */
+}
+
+.selectRecorrencia{
+    background-color: #000;
+    color: #ffffff;
+}
